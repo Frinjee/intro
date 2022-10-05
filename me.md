@@ -5,6 +5,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="frinjee" height="30" width="30" /></a>
 <a href="https://t.me/frinjee" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="frinjee-tele" height="30" width="30" /></a>
 <a href="https://github.com/Frinjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="frinjee-gh" height="30" width="30" /></a>
 
